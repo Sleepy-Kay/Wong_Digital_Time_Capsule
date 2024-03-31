@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+H1 {
+    text-align: center;
+    border: 30px solid #ffbbca;
+    border-radius: 25px;
+    padding: 100px;
+    margin: 100px;
+
+    .madimi-one-regular {
+        font-family: Madimi One;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    font-size: 100px;
+
+}
+
+h2 {
+    font-size: 56px;
+    margin-bottom: 70px;
+}
+
+h3 {
+    font-size: 40px;
+
+}
+
+.cat {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+
+body {
+    background-color: #FFDAE0;
+    font-family: Madimi One;
+}
+
+
+.navigation {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.navimg>img {
+    max-height: 500px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.headpage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    text-align: center;
+
+}
+
+.wrap {
+    position: relative;
+    background-color: #ffffff;
+    width: 1000px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+iframe {
+    max-width: 700px;
+    max-height: 300px;
+}
+
+img {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.spotifylist {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+p {
+    font-size: 25px;
+    text-align: justify;
+
+}
+
+.spotifylist>img {
+    max-height: 900px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
